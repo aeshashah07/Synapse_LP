@@ -22,3 +22,7 @@
   1) K-Means (Partition based clustering)
   2) Agglomerative (Heirarichal clustering)
   3) DBSCAN Clustering Algortihm
+
+## Week 5:
+  ANN: 
+  Training a neural network
