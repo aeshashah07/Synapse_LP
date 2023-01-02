@@ -26,3 +26,9 @@
 ## Week 5:
   ANN: 
   Training a neural network
+
+## NLP Week 1 (Week 6):
+  1) NLTK (Natural Language Tookkit)
+  2) BOW (Bag of Words)
+  3) TF_IDF (Term Frequency - Inverse Document Frequency)
+  
