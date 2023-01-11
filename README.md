@@ -32,3 +32,9 @@
   2) BOW (Bag of Words)
   3) TF_IDF (Term Frequency - Inverse Document Frequency)
   
+## NLP Week 2 (Week 7):
+  Word Embedding:
+  1) Word2Vec
+  2) Average Word2Vec
+    
+  Embedding layers and One-Hot representation using keras
